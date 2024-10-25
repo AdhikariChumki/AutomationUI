@@ -1,0 +1,777 @@
+2023-10-11 13:13:25,423 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 13:13:25,860 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 13:13:26,022 [main] INFO Resilience - The total row in QuoteNumbers sheet: 1
+2023-10-11 13:13:26,211 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 13:13:26,383 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 1
+2023-10-11 13:13:31,433 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 13:37:20,212 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 13:37:20,991 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 13:37:21,396 [main] INFO Resilience - The total row in QuoteNumbers sheet: 0
+2023-10-11 13:37:21,755 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 13:37:22,188 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 0
+2023-10-11 13:37:29,026 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 13:37:52,137 [main] INFO Resilience - Now bowser is closed.
+2023-10-11 17:26:27,361 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:40:37,711 [main] INFO Resilience - Now bowser is closed.
+2023-10-11 17:44:52,252 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 17:44:52,629 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 17:44:52,930 [main] INFO Resilience - The total row in QuoteNumbers sheet: 0
+2023-10-11 17:44:53,114 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 17:44:53,353 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 0
+2023-10-11 17:44:56,805 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:45:34,620 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 17:45:35,573 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 17:45:36,208 [main] INFO Resilience - The total row in QuoteNumbers sheet: 0
+2023-10-11 17:45:36,570 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 17:45:36,852 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 0
+2023-10-11 17:45:40,784 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:47:44,451 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 17:47:45,425 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 17:47:46,081 [main] INFO Resilience - The total row in QuoteNumbers sheet: 0
+2023-10-11 17:47:46,681 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 17:47:47,249 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 0
+2023-10-11 17:47:57,799 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:48:19,935 [main] INFO Resilience - Now bowser is closed.
+2023-10-11 17:50:39,197 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 17:50:40,161 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 17:50:40,728 [main] INFO Resilience - The total row in QuoteNumbers sheet: 0
+2023-10-11 17:50:41,314 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 17:50:41,861 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 0
+2023-10-11 17:50:51,952 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:51:45,260 [main] INFO Resilience - Click on Add client button
+2023-10-11 17:51:58,695 [main] INFO Resilience - Now bowser is closed.
+2023-10-11 17:54:03,150 [main] INFO Resilience - The total row in D&O_Premium_Override_Result sheet: 0
+2023-10-11 17:54:04,027 [main] INFO Resilience - The total row in D&O_Product_Run_Result sheet: 0
+2023-10-11 17:54:04,615 [main] INFO Resilience - The total row in QuoteNumbers sheet: 0
+2023-10-11 17:54:05,231 [main] INFO Resilience - The total row in D&O_Product_CommissionChange sheet: 0
+2023-10-11 17:54:05,794 [main] INFO Resilience - The total row in PI_Product_Run_Result sheet: 0
+2023-10-11 17:54:16,480 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:57:07,177 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:57:59,914 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 17:58:16,463 [main] INFO Resilience - Click on Add client button
+2023-10-11 17:58:18,430 [main] INFO Resilience - Select title
+2023-10-11 17:58:18,432 [main] INFO Resilience - Client name is :Client2023.10.11.17.58.18
+2023-10-11 17:58:18,580 [main] INFO Resilience - Total row present in clientNames sheet :11
+2023-10-11 17:58:18,870 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-10-11 17:58:19,028 [main] INFO Resilience - Enter client name as : Automation
+2023-10-11 17:58:58,549 [main] INFO Resilience - Now bowser is closed.
+2023-10-11 17:59:52,385 [main] INFO Resilience - The title of the page is ========================
+2023-10-11 18:05:11,169 [main] INFO Resilience - Now bowser is closed.
+2023-10-12 11:35:13,131 [main] INFO Resilience - The title of the page is ========================
+2023-10-12 11:35:32,715 [main] INFO Resilience - Click on Add client button
+2023-10-12 11:35:34,721 [main] INFO Resilience - Select title
+2023-10-12 11:35:34,724 [main] INFO Resilience - Client name is :Client2023.10.12.11.35.34
+2023-10-12 11:35:34,816 [main] INFO Resilience - Total row present in clientNames sheet :12
+2023-10-12 11:35:35,108 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-10-12 11:35:35,232 [main] INFO Resilience - Enter client name as : Automation
+2023-10-12 11:36:10,266 [main] INFO Resilience - Now bowser is closed.
+2023-10-12 14:00:09,160 [main] INFO Resilience - The title of the page is ========================
+2023-10-12 14:00:32,720 [main] INFO Resilience - Click on Add client button
+2023-10-12 14:00:34,670 [main] INFO Resilience - Select title
+2023-10-12 14:00:34,671 [main] INFO Resilience - Client name is :Client2023.10.12.14.00.34
+2023-10-12 14:00:34,759 [main] INFO Resilience - Total row present in clientNames sheet :13
+2023-10-12 14:00:35,023 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-10-12 14:00:35,206 [main] INFO Resilience - Enter client name as : Automation
+2023-10-12 14:01:14,171 [main] INFO Resilience - Now bowser is closed.
+2023-10-12 14:06:10,188 [main] INFO Resilience - The title of the page is ========================
+2023-10-12 14:06:27,824 [main] INFO Resilience - Click on Add client button
+2023-10-12 14:06:30,085 [main] INFO Resilience - Select title
+2023-10-12 14:06:30,087 [main] INFO Resilience - Client name is :Client2023.10.12.14.06.30
+2023-10-12 14:06:30,208 [main] INFO Resilience - Total row present in clientNames sheet :14
+2023-10-12 14:06:30,562 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-10-12 14:06:30,856 [main] INFO Resilience - Enter client name as : Automation
+2023-10-12 14:07:22,178 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 12:46:04,989 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 12:46:27,437 [main] INFO Resilience - Click on Add client button
+2023-11-06 12:46:30,320 [main] INFO Resilience - Select title
+2023-11-06 12:46:30,321 [main] INFO Resilience - Client name is :Client2023.11.06.12.46.30
+2023-11-06 12:46:30,537 [main] INFO Resilience - Enter client name as : Automation
+2023-11-06 12:47:22,850 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 12:49:46,815 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 12:50:42,327 [main] INFO Resilience - Click on Add client button
+2023-11-06 12:50:45,127 [main] INFO Resilience - Select title
+2023-11-06 12:50:45,128 [main] INFO Resilience - Client name is :Client2023.11.06.12.50.45
+2023-11-06 12:50:45,319 [main] INFO Resilience - Enter client name as : Automation
+2023-11-06 12:51:33,576 [main] INFO Resilience - Save The Client Details and client created
+2023-11-06 12:51:33,719 [main] INFO Resilience - Newly created client name is : Automation Client2023.11.06.12.50.45
+2023-11-06 12:51:33,763 [main] INFO Resilience - Total row present in clientNames sheet :0
+2023-11-06 12:51:33,878 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-11-06 12:51:39,881 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:10:51,227 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 13:11:17,147 [main] INFO Resilience - Click on Add client button
+2023-11-06 13:11:19,467 [main] INFO Resilience - Select title
+2023-11-06 13:11:19,469 [main] INFO Resilience - Client name is :Client2023.11.06.13.11.19
+2023-11-06 13:11:19,684 [main] INFO Resilience - Enter client name as : Automation
+2023-11-06 13:11:56,047 [main] INFO Resilience - Save The Client Details and client created
+2023-11-06 13:11:56,132 [main] INFO Resilience - Newly created client name is : Clients
+2023-11-06 13:11:56,221 [main] INFO Resilience - Total row present in clientNames sheet :1
+2023-11-06 13:11:56,414 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-11-06 13:12:02,843 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:12:29,649 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 13:12:53,062 [main] INFO Resilience - Click on Add client button
+2023-11-06 13:12:55,826 [main] INFO Resilience - Select title
+2023-11-06 13:12:55,828 [main] INFO Resilience - Client name is :Client2023.11.06.13.12.55
+2023-11-06 13:12:56,069 [main] INFO Resilience - Enter client name as : Automation
+2023-11-06 13:13:43,006 [main] INFO Resilience - Save The Client Details and client created
+2023-11-06 13:13:43,151 [main] INFO Resilience - Newly created client name is : Automation Client2023.11.06.13.12.55
+2023-11-06 13:13:43,201 [main] INFO Resilience - Total row present in clientNames sheet :2
+2023-11-06 13:13:43,283 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-11-06 13:13:49,553 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:25:16,232 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 13:25:39,516 [main] INFO Resilience - Click on Add client button
+2023-11-06 13:25:42,459 [main] INFO Resilience - Select title
+2023-11-06 13:25:42,604 [main] INFO Resilience - Enter client First Name as : Automation
+2023-11-06 13:25:53,979 [main] INFO Resilience - Enter client Surname as : Client2023.11.06.13.25.42
+2023-11-06 13:26:06,362 [main] INFO Resilience - Enter client Date Of Birth
+2023-11-06 13:26:12,762 [main] INFO Resilience - Enter client Email
+2023-11-06 13:26:19,050 [main] INFO Resilience - Confirm Client Email 
+2023-11-06 13:26:35,414 [main] INFO Resilience - Save The Client Details and client created
+2023-11-06 13:26:35,626 [main] INFO Resilience - Newly created client name is : Automation Client2023.11.06.13.25.42
+2023-11-06 13:26:35,691 [main] INFO Resilience - Total row present in clientNames sheet :3
+2023-11-06 13:26:35,845 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-11-06 13:26:41,874 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:39:21,309 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 13:39:37,651 [main] INFO Resilience - Search the Client as :Automation Client2023.11.06.13.25.42
+2023-11-06 13:39:59,261 [main] INFO Resilience - Click on Address list to Add address 
+2023-11-06 13:40:09,500 [main] INFO Resilience - Click on Add New Address
+2023-11-06 13:40:17,399 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:52:23,445 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 13:52:37,928 [main] INFO Resilience - Search the Client as :Automation Client2023.11.06.13.25.42
+2023-11-06 13:53:02,269 [main] INFO Resilience - Click on Address list to Add address 
+2023-11-06 13:53:12,431 [main] INFO Resilience - Click on Add New Address
+2023-11-06 13:53:13,566 [main] INFO Resilience - Fill all required details from Excel
+2023-11-06 13:53:25,621 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:56:08,788 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 13:56:22,068 [main] INFO Resilience - Search the Client as :Automation Client2023.11.06.13.25.42
+2023-11-06 13:56:44,096 [main] INFO Resilience - Click on Address list to Add address 
+2023-11-06 13:56:54,265 [main] INFO Resilience - Click on Add New Address
+2023-11-06 13:56:55,411 [main] INFO Resilience - Fill all required details from Excel
+2023-11-06 13:57:12,169 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 13:59:20,921 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 14:01:17,324 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 14:02:01,615 [main] INFO Resilience - Search the Client as :Automation Client2023.11.06.13.25.42
+2023-11-06 14:02:42,202 [main] INFO Resilience - Click on Address list to Add address 
+2023-11-06 14:02:52,367 [main] INFO Resilience - Click on Add New Address
+2023-11-06 14:02:53,508 [main] INFO Resilience - Fill all required details from Excel
+2023-11-06 14:03:04,080 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 18:18:47,204 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 18:19:09,807 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 18:20:54,206 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 18:21:13,265 [main] INFO Resilience - Now bowser is closed.
+2023-11-06 18:28:03,718 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 18:29:19,760 [main] INFO Resilience - The title of the page is ========================
+2023-11-06 18:29:37,960 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-06 18:29:37,992 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 30
+2023-11-06 18:29:40,341 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-06 18:29:40,342 [main] INFO Resilience - Now click on the client search
+2023-11-06 18:29:43,774 [main] INFO Resilience - Now search the Automation Client2023.11.06.13.25.42 client
+2023-11-06 18:29:43,802 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-06 18:29:48,338 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.06.13.25.42' on the client serch field and search
+2023-11-06 18:29:58,666 [main] INFO Resilience - Click on the edit icon
+2023-11-06 18:29:58,666 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-06 18:30:09,459 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-06 18:30:10,562 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-06 18:30:14,202 [main] INFO Resilience - Select the '6/Nov/2023' on the 'Policy Start Date' field.
+2023-11-06 18:30:17,604 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-06 18:31:04,163 [main] INFO Resilience - Now bowser is closed.
+2023-11-16 13:49:35,484 [main] INFO Resilience - The title of the page is ========================
+2023-11-16 13:49:55,296 [main] INFO Resilience - Click on Add client button
+2023-11-16 13:49:57,648 [main] INFO Resilience - Select title
+2023-11-16 13:49:57,752 [main] INFO Resilience - Enter client First Name as : Automation
+2023-11-16 13:50:08,991 [main] INFO Resilience - Enter client Surname as : Client2023.11.16.13.49.57
+2023-11-16 13:50:21,181 [main] INFO Resilience - Enter client Date Of Birth
+2023-11-16 13:50:27,405 [main] INFO Resilience - Enter client Email
+2023-11-16 13:50:33,542 [main] INFO Resilience - Confirm Client Email 
+2023-11-16 13:50:48,467 [main] INFO Resilience - Save The Client Details and client created
+2023-11-16 13:50:48,573 [main] INFO Resilience - Newly created client name is : Automation Client2023.11.16.13.49.57
+2023-11-16 13:50:48,620 [main] INFO Resilience - Total row present in clientNames sheet :1
+2023-11-16 13:50:48,713 [main] INFO Resilience - write the Client name into ExcelSheet sheet name : clientNames
+2023-11-16 13:50:54,470 [main] INFO Resilience - Now bowser is closed.
+2023-11-16 13:54:20,518 [main] INFO Resilience - The title of the page is ========================
+2023-11-16 13:54:31,778 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-16 13:54:31,830 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 39
+2023-11-16 13:54:34,531 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-16 13:54:34,532 [main] INFO Resilience - Now click on the client search
+2023-11-16 13:54:37,628 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-16 13:54:37,660 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-16 13:54:42,086 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-16 13:54:47,465 [main] INFO Resilience - Click on the edit icon
+2023-11-16 13:54:47,466 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-16 13:54:54,508 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-16 13:54:55,609 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-16 13:54:59,632 [main] INFO Resilience - Select the '16/Nov/2023' on the 'Policy Start Date' field.
+2023-11-16 13:55:03,068 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-16 13:55:23,411 [main] INFO Resilience - Now bowser is closed.
+2023-11-16 13:59:41,542 [main] INFO Resilience - The title of the page is ========================
+2023-11-16 13:59:55,097 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-16 13:59:55,140 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 39
+2023-11-16 13:59:58,403 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-16 13:59:58,404 [main] INFO Resilience - Now click on the client search
+2023-11-16 14:00:03,113 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-16 14:00:03,148 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-16 14:00:07,714 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-16 14:00:13,914 [main] INFO Resilience - Click on the edit icon
+2023-11-16 14:00:13,915 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-16 14:00:22,227 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-16 14:00:23,321 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-16 14:00:26,826 [main] INFO Resilience - Select the '16/Nov/2023' on the 'Policy Start Date' field.
+2023-11-16 14:00:30,230 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-16 14:00:52,739 [main] INFO Resilience - Now bowser is closed.
+2023-11-16 15:59:46,604 [main] INFO Resilience - The title of the page is ========================
+2023-11-16 16:00:04,577 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-16 16:00:04,647 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 39
+2023-11-16 16:00:08,446 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-16 16:00:08,448 [main] INFO Resilience - Now click on the client search
+2023-11-16 16:00:11,182 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-16 16:00:11,215 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-16 16:00:16,442 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-16 16:00:23,791 [main] INFO Resilience - Click on the edit icon
+2023-11-16 16:00:23,792 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-16 16:00:32,572 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-16 16:00:33,686 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-16 16:00:37,461 [main] INFO Resilience - Select the '16/Nov/2023' on the 'Policy Start Date' field.
+2023-11-16 16:00:41,205 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-16 16:00:55,437 [main] INFO Resilience - UK resident? - Yes
+2023-11-16 16:00:56,876 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-16 16:00:57,497 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-16 16:00:58,088 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-16 16:01:09,344 [main] INFO Resilience - Now bowser is closed.
+2023-11-16 16:04:52,741 [main] INFO Resilience - The title of the page is ========================
+2023-11-16 16:05:05,319 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-16 16:05:05,352 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 39
+2023-11-16 16:05:07,210 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-16 16:05:07,211 [main] INFO Resilience - Now click on the client search
+2023-11-16 16:05:13,030 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-16 16:05:13,055 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-16 16:05:17,590 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-16 16:05:23,726 [main] INFO Resilience - Click on the edit icon
+2023-11-16 16:05:23,727 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-16 16:05:31,649 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-16 16:05:32,778 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-16 16:05:36,647 [main] INFO Resilience - Select the '16/Nov/2023' on the 'Policy Start Date' field.
+2023-11-16 16:05:40,302 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-16 16:05:53,424 [main] INFO Resilience - UK resident? - Yes
+2023-11-16 16:05:54,580 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-16 16:05:55,178 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-16 16:05:55,838 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-16 16:05:57,166 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-16 16:06:00,144 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-16 16:06:02,237 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-16 16:06:03,263 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-16 16:06:04,186 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-16 16:06:13,095 [main] INFO Resilience - Now bowser is closed.
+2023-11-16 20:26:42,671 [main] INFO Resilience - The title of the page is ========================
+2023-11-16 20:26:55,320 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-16 20:26:55,346 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 47
+2023-11-16 20:26:57,993 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-16 20:26:57,993 [main] INFO Resilience - Now click on the client search
+2023-11-16 20:27:00,512 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-16 20:27:00,543 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-16 20:27:05,546 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-16 20:27:11,876 [main] INFO Resilience - Click on the edit icon
+2023-11-16 20:27:11,877 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-16 20:27:21,305 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-16 20:27:22,408 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-16 20:27:26,077 [main] INFO Resilience - Select the '16/Nov/2023' on the 'Policy Start Date' field.
+2023-11-16 20:27:29,517 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-16 20:28:07,150 [main] INFO Resilience - UK resident? - Yes
+2023-11-16 20:28:08,432 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-16 20:28:09,017 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-16 20:28:09,620 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-16 20:28:10,826 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-16 20:28:13,389 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-16 20:28:15,333 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-16 20:28:16,271 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-16 20:28:17,118 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-16 20:28:18,796 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-16 20:28:19,940 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-16 20:28:20,688 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-16 20:28:20,948 [main] INFO Resilience - Any building work in progress? - No
+2023-11-16 20:28:22,094 [main] INFO Resilience - Is this a listed building? - No
+2023-11-16 20:28:23,276 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-16 20:28:24,409 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-16 20:28:24,477 [main] INFO Resilience - Is the property used for business? - No
+2023-11-16 20:28:24,708 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-16 20:28:25,861 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-16 20:28:26,107 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-16 20:28:26,216 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-16 20:28:26,477 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-16 20:28:27,601 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-16 20:28:28,736 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-16 20:28:29,300 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-16 20:28:29,388 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-16 20:28:30,522 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-16 20:28:30,888 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-16 20:28:36,052 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 11:45:09,353 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 11:45:21,983 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 1
+2023-11-17 11:45:22,017 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 53
+2023-11-17 11:45:24,725 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 11:45:24,726 [main] INFO Resilience - Now click on the client search
+2023-11-17 11:45:27,198 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 11:45:27,229 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 11:45:31,681 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 11:45:37,043 [main] INFO Resilience - Click on the edit icon
+2023-11-17 11:45:37,044 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 11:45:44,051 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 11:45:45,148 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 11:45:48,702 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 11:45:52,224 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 11:46:29,439 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 11:46:30,590 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 11:46:31,210 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 11:46:31,830 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 11:46:33,051 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 11:46:35,147 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 11:46:36,962 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 11:46:37,807 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 11:46:38,663 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 11:46:40,338 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 11:46:41,523 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 11:46:42,150 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 11:46:42,405 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 11:46:43,545 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 11:46:44,714 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 11:46:45,894 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 11:46:45,962 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 11:46:46,224 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 11:46:47,409 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 11:46:47,672 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 11:46:47,763 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 11:46:48,008 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 11:46:49,185 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 11:46:50,373 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 11:46:50,930 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 11:46:51,047 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 11:46:52,237 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 11:46:52,624 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 11:46:52,737 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 11:46:53,909 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 11:46:54,009 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 11:46:55,521 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 11:46:56,653 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 11:46:56,733 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 11:46:57,149 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 11:46:57,259 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 11:46:57,912 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 11:46:58,214 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 11:46:58,838 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 11:46:58,938 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 11:46:59,285 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 11:46:59,471 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 11:46:59,536 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 11:46:59,617 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 11:47:04,849 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 11:53:53,946 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 11:54:07,514 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 2
+2023-11-17 11:54:07,542 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 53
+2023-11-17 11:54:13,112 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 11:54:13,112 [main] INFO Resilience - Now click on the client search
+2023-11-17 11:54:15,267 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 11:54:15,301 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 11:54:19,820 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 11:54:24,846 [main] INFO Resilience - Click on the edit icon
+2023-11-17 11:54:24,847 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 11:54:32,134 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 11:54:33,291 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 11:54:36,996 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 11:54:40,411 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 11:54:53,561 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 11:54:54,686 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 11:54:55,277 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 11:54:55,893 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 11:54:57,079 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 11:54:59,238 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 11:55:01,097 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 11:55:01,932 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 11:55:02,822 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 11:55:04,536 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 11:55:05,704 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 11:55:06,318 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 11:55:06,559 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 11:55:07,730 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 11:55:08,884 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 11:55:10,059 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 11:55:10,148 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 11:55:10,379 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 11:55:11,510 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 11:55:11,747 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 11:55:11,812 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 11:55:12,105 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 11:55:13,254 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 11:55:14,404 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 11:55:14,945 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 11:55:15,092 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 11:55:16,280 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 11:55:16,684 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 11:55:16,790 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 11:55:17,937 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 11:55:18,038 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 11:55:19,522 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 11:55:20,698 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 11:55:20,807 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 11:55:21,176 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 11:55:21,270 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 11:55:21,933 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 11:55:22,163 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 11:55:22,718 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 11:55:22,796 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 11:55:23,085 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 11:55:23,307 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 11:55:23,397 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 11:55:23,471 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 11:55:23,572 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 11:55:23,572 [main] INFO Resilience - Now click on the client search
+2023-11-17 11:55:30,583 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 12:21:34,137 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 12:21:46,336 [main] INFO Resilience - The total row in Home&Content_Product_InputSheet sheet is 2
+2023-11-17 12:21:46,371 [main] INFO Resilience - The total column in Home&Content_Product_InputSheet sheet is 53
+2023-11-17 12:21:52,059 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 12:21:52,060 [main] INFO Resilience - Now click on the client search
+2023-11-17 12:21:54,411 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 12:21:54,451 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 12:21:58,970 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 12:22:04,569 [main] INFO Resilience - Click on the edit icon
+2023-11-17 12:22:04,570 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 12:22:11,448 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 12:22:12,601 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 12:22:16,285 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 12:22:19,768 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 12:22:32,956 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 12:22:34,078 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 12:22:34,683 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 12:22:35,299 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 12:22:36,524 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 12:22:38,684 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 12:22:40,499 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 12:22:41,357 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 12:22:42,228 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 12:22:43,932 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 12:22:45,070 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 12:22:45,684 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 12:22:45,946 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 12:22:47,086 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 12:22:48,262 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 12:22:49,452 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 12:22:49,527 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 12:22:49,765 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 12:22:50,871 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 12:22:51,090 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 12:22:51,169 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 12:22:51,430 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 12:22:52,611 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 12:22:53,798 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 12:22:54,365 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 12:22:54,479 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 12:22:55,673 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 12:22:56,065 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 12:22:56,172 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 12:22:57,321 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 12:22:57,413 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 12:22:58,870 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 12:23:00,044 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 12:23:00,143 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 12:23:00,622 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 12:23:00,727 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 12:23:01,401 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 12:23:01,690 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 12:23:02,323 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 12:23:02,407 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 12:23:02,739 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 12:23:02,957 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 12:23:03,039 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 12:23:03,127 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 12:23:03,227 [main] INFO Resilience - click on Next button to navigate Premium page
+2023-11-17 12:23:10,073 [main] INFO Resilience - click on Email Quot in premium page
+2023-11-17 12:23:13,331 [main] INFO Resilience - Enter Email id in to Mail To Text box
+2023-11-17 12:23:13,406 [main] INFO Resilience - Now click on Send the mail
+2023-11-17 12:23:19,599 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 12:55:18,180 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 12:55:33,020 [main] INFO Resilience - The total row in Home&Content_Product_Input sheet is 2
+2023-11-17 12:55:33,078 [main] INFO Resilience - The total column in Home&Content_Product_Input sheet is 53
+2023-11-17 12:55:43,408 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 12:55:43,409 [main] INFO Resilience - Now click on the client search
+2023-11-17 12:55:45,885 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 12:55:45,937 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 12:55:50,546 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 12:55:56,533 [main] INFO Resilience - Click on the edit icon
+2023-11-17 12:55:56,534 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 12:56:04,204 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 12:56:05,319 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 12:56:08,960 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 12:56:12,565 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 12:56:25,792 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 12:56:26,920 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 12:56:27,530 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 12:56:28,153 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 12:56:29,330 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 12:56:31,534 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 12:56:33,377 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 12:56:34,273 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 12:56:35,194 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 12:56:36,867 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 12:56:38,031 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 12:56:38,655 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 12:56:38,872 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 12:56:40,001 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 12:56:41,134 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 12:56:42,304 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 12:56:42,415 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 12:56:42,674 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 12:56:43,804 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 12:56:44,062 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 12:56:44,192 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 12:56:44,416 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 12:56:45,591 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 12:56:46,710 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 12:56:47,268 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 12:56:47,381 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 12:56:48,522 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 12:56:48,932 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 12:56:49,054 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 12:56:50,185 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 12:56:50,304 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 12:56:51,758 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 12:56:52,919 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 12:56:53,026 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 12:56:53,459 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 12:56:53,593 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 12:56:54,316 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 12:56:54,588 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 12:56:55,188 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 12:56:55,300 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 12:56:55,676 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 12:56:55,992 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 12:56:56,126 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 12:56:56,223 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 12:56:56,368 [main] INFO Resilience - click on Next button to navigate Premium page
+2023-11-17 12:57:09,126 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 12:59:33,653 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 12:59:48,945 [main] INFO Resilience - The total row in Home&Content_Product_Input sheet is 2
+2023-11-17 12:59:49,039 [main] INFO Resilience - The total column in Home&Content_Product_Input sheet is 53
+2023-11-17 12:59:59,725 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 12:59:59,727 [main] INFO Resilience - Now click on the client search
+2023-11-17 13:00:02,368 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 13:00:02,409 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 13:00:07,135 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 13:00:12,826 [main] INFO Resilience - Click on the edit icon
+2023-11-17 13:00:12,827 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 13:00:20,661 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 13:00:21,805 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 13:00:25,623 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 13:00:29,537 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 13:00:43,276 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 13:00:44,407 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 13:00:45,032 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 13:00:45,700 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 13:00:47,070 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 13:00:50,648 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 13:00:53,171 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 13:00:54,349 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 13:00:55,487 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 13:00:57,247 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 13:00:58,490 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 13:00:59,177 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 13:00:59,433 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 13:01:00,662 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 13:01:01,885 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 13:01:03,097 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 13:01:03,291 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 13:01:03,555 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 13:01:04,786 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 13:01:05,061 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 13:01:05,234 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 13:01:05,494 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 13:01:06,702 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 13:01:07,928 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 13:01:08,514 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 13:01:08,684 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 13:01:09,909 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 13:01:10,407 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 13:01:10,561 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 13:01:11,806 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 13:01:11,960 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 13:01:13,495 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 13:01:14,745 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 13:01:14,956 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 13:01:15,507 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 13:01:15,695 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 13:01:16,511 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 13:01:16,906 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 13:01:17,652 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 13:01:17,827 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 13:01:18,275 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 13:01:18,712 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 13:01:18,897 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 13:01:19,062 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 13:01:19,245 [main] INFO Resilience - click on Next button to navigate Premium page
+2023-11-17 13:01:20,873 [main] INFO Resilience - text from quote div : Quote Reference Number: TRI230500016Q-01
+2023-11-17 13:01:20,874 [main] INFO Resilience - after replace quote number is : QuoteReferenceNumber:TRI230500016Q-01
+2023-11-17 13:01:33,015 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 16:19:36,645 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 16:19:51,965 [main] INFO Resilience - The total row in Home&Content_Product_Input sheet is 2
+2023-11-17 16:19:52,037 [main] INFO Resilience - The total column in Home&Content_Product_Input sheet is 53
+2023-11-17 16:20:01,832 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 16:20:01,834 [main] INFO Resilience - Now click on the client search
+2023-11-17 16:20:04,351 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 16:20:04,403 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 16:20:08,996 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 16:20:15,522 [main] INFO Resilience - Click on the edit icon
+2023-11-17 16:20:15,524 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 16:20:23,779 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 16:20:24,917 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 16:20:28,569 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 16:20:32,185 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 16:21:10,053 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 16:21:11,186 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 16:21:11,796 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 16:21:12,431 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 16:21:13,658 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 16:21:15,848 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 16:21:17,704 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 16:21:18,657 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 16:21:19,563 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 16:21:21,254 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 16:21:22,402 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 16:21:23,040 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 16:21:23,315 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 16:21:24,448 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 16:21:25,570 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 16:21:26,706 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 16:21:26,832 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 16:21:27,104 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 16:21:28,277 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 16:21:28,530 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 16:21:28,643 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 16:21:28,898 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 16:21:30,036 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 16:21:31,201 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 16:21:31,768 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 16:21:31,892 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 16:21:33,026 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 16:21:33,442 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 16:21:33,556 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 16:21:34,682 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 16:21:34,800 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 16:21:36,287 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 16:21:37,431 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 16:21:37,533 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 16:21:37,992 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 16:21:38,128 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 16:21:38,860 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 16:21:39,129 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 16:21:39,745 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 16:21:39,808 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 16:21:40,123 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 16:21:40,444 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 16:21:40,573 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 16:21:40,676 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 16:21:40,767 [main] INFO Resilience - click on Next button to navigate Premium page
+2023-11-17 16:21:42,184 [main] INFO Resilience - text from quote div : Quote Reference Number: TRI230500017Q-01
+2023-11-17 16:21:42,185 [main] INFO Resilience - after replace quote number is : TRI230500017Q-01
+2023-11-17 16:21:53,466 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 16:33:47,992 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 16:34:01,570 [main] INFO Resilience - The total row in Home&Content_Product_Input sheet is 2
+2023-11-17 16:34:01,595 [main] INFO Resilience - The total column in Home&Content_Product_Input sheet is 53
+2023-11-17 16:34:05,355 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 16:34:05,355 [main] INFO Resilience - Now click on the client search
+2023-11-17 16:34:07,750 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 16:34:07,786 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 16:34:12,409 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 16:34:18,492 [main] INFO Resilience - Click on the edit icon
+2023-11-17 16:34:18,493 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 16:34:26,005 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 16:34:27,103 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 16:34:30,760 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 16:34:34,365 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 16:34:47,468 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 16:34:48,590 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 16:34:49,200 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 16:34:49,830 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 16:34:51,028 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 16:34:53,274 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 16:34:55,159 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 16:34:56,084 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 16:34:57,031 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 16:34:58,712 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 16:34:59,873 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 16:35:00,495 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 16:35:00,709 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 16:35:01,882 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 16:35:03,057 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 16:35:04,216 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 16:35:04,352 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 16:35:04,579 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 16:35:05,737 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 16:35:06,013 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 16:35:06,129 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 16:35:06,412 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 16:35:07,568 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 16:35:08,709 [main] INFO Resilience - Have you had any claims in the last 3 years?? - Owned (mortgaged or owned outright)
+2023-11-17 16:35:09,274 [main] INFO Resilience - Buildings Insurance required?- Yes
+2023-11-17 16:35:09,384 [main] INFO Resilience - Accidental Building Damage Included - Yes
+2023-11-17 16:35:10,530 [main] INFO Resilience - Buildings Voluntary Excess - 100
+2023-11-17 16:35:10,943 [main] INFO Resilience - Contents Insurance required?- Yes
+2023-11-17 16:35:11,090 [main] INFO Resilience - Contents Accidental Damage ?- Yes
+2023-11-17 16:35:12,265 [main] INFO Resilience - Select Contents Voluntary Excess as - 50
+2023-11-17 16:35:12,391 [main] INFO Resilience - Are door and window locks fitted? - Yes
+2023-11-17 16:35:13,901 [main] INFO Resilience - Which type of lock do you have on your main door? - 5-lever mortice deadlock
+2023-11-17 16:35:15,054 [main] INFO Resilience - Do you have a Burglar Alarm? - No Alarm
+2023-11-17 16:35:15,135 [main] INFO Resilience - Would you like Worldwide Personal Belongings cover? - Yes
+2023-11-17 16:35:15,651 [main] INFO Resilience - Additional Unspecified Item Cover -2000
+2023-11-17 16:35:15,786 [main] INFO Resilience - click on Specified Items Dropdown
+2023-11-17 16:35:16,456 [main] INFO Resilience - Search Item name as - Photographic Equipment
+2023-11-17 16:35:16,760 [main] INFO Resilience - Enter Specified Item Name - Item1
+2023-11-17 16:35:17,381 [main] INFO Resilience - Enter Specified Item Value - 2000
+2023-11-17 16:35:17,483 [main] INFO Resilience - Would you like Pedal Cycle cover - Yes
+2023-11-17 16:35:17,816 [main] INFO Resilience - Cycle Type -Cycle1
+2023-11-17 16:35:18,117 [main] INFO Resilience - Cycle Type -3000
+2023-11-17 16:35:18,226 [main] INFO Resilience - Legal Cover required - Yes
+2023-11-17 16:35:18,329 [main] INFO Resilience - Home Emergency Cover - Yes
+2023-11-17 16:35:18,462 [main] INFO Resilience - click on Next button to navigate Premium page
+2023-11-17 16:35:19,795 [main] INFO Resilience - text from quote div : Quote Reference Number: TRI230500018Q-01
+2023-11-17 16:35:19,796 [main] INFO Resilience - after replace quote number is : TRI230500018Q-01
+2023-11-17 16:35:20,422 [main] INFO Resilience - total row in Home&Content_ProductOutPut_Sheet : 0
+2023-11-17 16:35:20,577 [main] INFO Resilience - Quote Number 'TRI230500018Q-01' is added on the Home&Content_ProductOutPut_Sheet
+2023-11-17 16:35:26,179 [main] INFO Resilience - click on Email Quot in premium page
+2023-11-17 16:35:30,411 [main] INFO Resilience - Enter Email id in to Mail To Text box
+2023-11-17 16:35:30,572 [main] INFO Resilience - Now click on Send the mail
+2023-11-17 16:35:37,071 [main] INFO Resilience - Now bowser is closed.
+2023-11-17 18:45:37,326 [main] INFO Resilience - The title of the page is ========================
+2023-11-17 18:45:49,374 [main] INFO Resilience - The total row in Home&Content_Product_Input sheet is 2
+2023-11-17 18:45:49,405 [main] INFO Resilience - The total column in Home&Content_Product_Input sheet is 53
+2023-11-17 18:45:55,065 [main] INFO Resilience - The 'Run Status' column is 'Yes'.
+2023-11-17 18:45:55,066 [main] INFO Resilience - Now click on the client search
+2023-11-17 18:45:57,514 [main] INFO Resilience - Now search the Automation Client2023.11.16.13.49.57 client
+2023-11-17 18:45:57,549 [main] INFO Resilience - Current url is : https://core-dev.markit-systems.com/Sites/Trinity/V3/clients/admin_display#1
+2023-11-17 18:46:02,361 [main] INFO Resilience - Enter the Client name 'Automation Client2023.11.16.13.49.57' on the client serch field and search
+2023-11-17 18:46:08,130 [main] INFO Resilience - Click on the edit icon
+2023-11-17 18:46:08,131 [main] INFO Resilience - Now click on the Start Quote button
+2023-11-17 18:46:15,949 [main] INFO Resilience - Select the 'Home Buildings and Contents Insurance' on the 'Select Product' field.
+2023-11-17 18:46:17,062 [main] INFO Resilience - Select the 'Yearly' on the 'Policy Term' field.
+2023-11-17 18:46:20,636 [main] INFO Resilience - Select the '17/Nov/2023' on the 'Policy Start Date' field.
+2023-11-17 18:46:24,041 [main] INFO Resilience - Click on the 'Next' button on General Information' page.
+2023-11-17 18:46:37,199 [main] INFO Resilience - UK resident? - Yes
+2023-11-17 18:46:38,303 [main] INFO Resilience - Does any resident have any convictions other than motor related? - No
+2023-11-17 18:46:38,877 [main] INFO Resilience - Has any resident had insurance declined, cancelled or special terms imposed? - No
+2023-11-17 18:46:39,480 [main] INFO Resilience - Has any resident been declared bankrupt or had any unsatisfied CCJs? - No
+2023-11-17 18:46:40,566 [main] INFO Resilience - Select Employment Status as - Director
+2023-11-17 18:46:42,639 [main] INFO Resilience - Select Occupation as - AA Patrolman
+2023-11-17 18:46:44,411 [main] INFO Resilience - Select Employers Business as - Abattoir
+2023-11-17 18:46:45,195 [main] INFO Resilience - Select Type of property as - Detached Bungalow
+2023-11-17 18:46:45,944 [main] INFO Resilience - Select Date Built as - 1966 - 1979
+2023-11-17 18:46:47,582 [main] INFO Resilience - Are the walls made only of Brick, Stone or Concrete? - Yes
+2023-11-17 18:46:48,721 [main] INFO Resilience - Is the roof only made of slate or tile?? - Yes
+2023-11-17 18:46:49,330 [main] INFO Resilience - Does the property have a flat roof? - No
+2023-11-17 18:46:49,735 [main] INFO Resilience - Any building work in progress? - No
+2023-11-17 18:46:50,872 [main] INFO Resilience - Is this a listed building? - No
+2023-11-17 18:46:51,982 [main] INFO Resilience - Number of Bedrooms  - 5
+2023-11-17 18:46:53,114 [main] INFO Resilience - Number of bathrooms/ensuites  - 3
+2023-11-17 18:46:53,208 [main] INFO Resilience - Is the property used for business? - No
+2023-11-17 18:46:53,659 [main] INFO Resilience - Is the property shared by non-family members? - No
+2023-11-17 18:46:54,788 [main] INFO Resilience - On what basis is the property left unoccupied - Occupied
+2023-11-17 18:46:55,274 [main] INFO Resilience - Is the building in a good state of repair? - Yes
+2023-11-17 18:46:55,336 [main] INFO Resilience - Is the building free from flooding? - Yes
+2023-11-17 18:46:55,715 [main] INFO Resilience - Is the building free from subsidence, heave, landslip, or past or present subsidence monitoring? - Yes
+2023-11-17 18:46:56,843 [main] INFO Resilience - Do you own or rent your property? - Owned (mortgaged or owned outright)
+2023-11-17 18:47:03,729 [main] INFO Resilience - Now bowser is closed.
